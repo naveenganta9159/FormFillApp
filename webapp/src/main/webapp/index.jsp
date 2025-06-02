@@ -25,6 +25,10 @@
     <input type="Text" placeholder="Enter Name" name="mother name" id="mother name" required>
     <br>
 
+    <label for="brother name"><b>Brother Name</b></label>
+    <input type="Text" placeholder="Enter Name" name="brother name" id="brother name" required>
+    <br>
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
