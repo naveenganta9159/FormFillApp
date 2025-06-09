@@ -17,6 +17,10 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
 
+    <label for="aadhar number"><b>Aadhar Number</b></label>
+    <input type="Text" placeholder="Enter Number" name="aadhar number" id="aadhar number" required>
+    <br>
+
     <label for="father name"><b>Father Name</b></label>
     <input type="Text" placeholder="Enter Name" name="father name" id="father name" required>
     <br>
