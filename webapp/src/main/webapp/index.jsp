@@ -21,6 +21,10 @@
     <input type="Text" placeholder="Enter Number" name="aadhar number" id="aadhar number" required>
     <br>
 
+    <label for="guardian name"><b>Guardian Name</b></label>
+    <input type="Text" placeholder="Enter Name" name="guardian name" id="guardian name" required>
+    <br>
+
     <label for="father name"><b>Father Name</b></label>
     <input type="Text" placeholder="Enter Name" name="father name" id="father name" required>
     <br>
